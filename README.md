@@ -7,13 +7,17 @@
 ✅ **Attack stats & move details** for better insights  
 ✅ **Evolution stages** to track progression  
 ✅ **Lottie-powered Pokémon animation** on the splash screen  
-✅ Available for **iOS & Android**  
+✅ Available for **iOS**  
 
 ## 🔗 Tech Stack  
 - **Frontend:** SwiftUI  
 - **Backend:** PokéAPI  
 - **Animations:** Lottie  
-- **Cross-Platform:** iOS & Android  
+- **Platform:** iOS
+
+## 💻 UI
+
+<img src="https://raw.githubusercontent.com/developer-bhavesh/Catch-Em-Dex/refs/heads/main/UI/1.png" alt="UI">
 
 🎯 **Goal:** Create the ultimate Pokédex experience for Pokémon fans!  
 
