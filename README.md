@@ -18,10 +18,13 @@
 ## 💻 UI
 
 **Home**
-<img src="https://raw.githubusercontent.com/developer-bhavesh/Catch-Em-Dex/refs/heads/main/UI/1.png" alt="UI">
+<img src="https://raw.githubusercontent.com/developer-bhavesh/Catch-Em-Dex/refs/heads/main/UI/1.png" alt="Home Screen UI">
 
 **Pokemon Details View**
-<img src="https://raw.githubusercontent.com/developer-bhavesh/Catch-Em-Dex/refs/heads/main/UI/2.png" alt="UI">
+<img src="https://raw.githubusercontent.com/developer-bhavesh/Catch-Em-Dex/refs/heads/main/UI/2.png" alt="Pokemon Details UI">
+
+**Search View**
+<img scr="https://raw.githubusercontent.com/developer-bhavesh/Catch-Em-Dex/refs/heads/main/UI/3.png" alt="Search UI">
 
 🎯 **Goal:** Create the ultimate Pokédex experience for Pokémon fans!  
 
